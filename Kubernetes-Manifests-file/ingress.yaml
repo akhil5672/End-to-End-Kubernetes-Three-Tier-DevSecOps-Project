@@ -11,7 +11,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: three-tier-app.local
+    - host: amanpathakdevops.study
       http:
         paths:
           - path: /api
